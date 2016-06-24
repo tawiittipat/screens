@@ -1,0 +1,34 @@
+June 29, 2016
+	Log-in
+	Registration
+	Employer's Sidebar
+	Graduate's Sidebar
+
+July 6, 2016
+	Employer's Post a Job [F O R M]
+	Employer's Manage Job [F O R M | E D I T]
+	Employer's Manage Account
+	Employer's About Us [F O R M]
+	Employer's Search
+	Employer's Profile
+	Employer's Job Details
+
+July 13, 2016
+	Graduate's Education [F O R M]
+	Graduate's Experience [F O R M]
+	Graduate's Skill [F O R M]
+	Graduate's Manage Account
+	Graduate's About Me [F O R M]
+	Graduates' Education [F O R M]
+	Graduates' Profile
+
+July 20, 2016
+	Graduate's Search Job Landing
+	Graduate's Search Company Profile Landing
+	Employer Search Graduate Profile
+	Graduate Job List Based on Preference
+	Admin Manage Account
+	Admin Approval of Accounts from Employer's Registration
+	Admin Job Posted
+	Admin Graphs
+	
